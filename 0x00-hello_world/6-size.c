@@ -1,5 +1,10 @@
 #include <stdio.h>
-/* prints the sizes of the different data types */
+/**
+ *  main - Entry point
+ *
+ *  prints the sizes of the different data types 
+ *
+ */
 int main(void)
 {
 	char a;
