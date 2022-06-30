@@ -2,21 +2,11 @@
 /**
  *  main - Entry point
  *
- *  prints the sizes of the different data types 
+ *  result - prints the sizes of the different data types 
  *
  */
 int main(void)
-{/**                                                                                                                                                      
-
-    *  main - Entry point                                                                                                                                   
-    *
-    *   *                                                                                                                                                       
-    *
-    *    *  prints the sizes of the different data types                                                                                                         
-    *
-    *     *                                                                                                                                                       
-    *
-    *      */ 
+{ 
 	char a;
 	int b;
 	long int c;
