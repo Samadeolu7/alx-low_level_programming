@@ -2,7 +2,7 @@
 /**
  *  main - Entry point
  *
- *  result - prints the sizes of the different data types 
+ *  result: prints the sizes of the different data types 
  *
  */
 int main(void)
