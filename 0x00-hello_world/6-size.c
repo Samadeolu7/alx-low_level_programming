@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void){
+int main(void)
+{	/* prints the size of different types*/
 	char a;
 	int b;
 	long int c;
