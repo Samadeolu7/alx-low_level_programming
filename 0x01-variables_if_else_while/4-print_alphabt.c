@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
  * main - Entry point
  *
  * Return: Always 0 (Success)
@@ -10,6 +9,7 @@
 int main(void)
 {
 	char low, e, q;
+
 	e = 'e';
 	q = 'q';
 
@@ -18,8 +18,7 @@ int main(void)
 		if (low != e && low != q)
 			putchar(low);
 	}
-	printf("\n");
-	
+	printf("\n");	
 
 	return (0);
 }
